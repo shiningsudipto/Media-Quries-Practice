@@ -1,0 +1,17 @@
+@media  screen and (max-width:390px) {
+nav{
+    flex-direction: column;
+}
+.brand-name h1{
+font-size: 3.5rem;
+text-align: center;
+}
+.row{
+    flex-direction: column;
+}
+.column{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+}
+}
